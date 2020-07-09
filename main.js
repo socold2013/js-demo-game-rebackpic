@@ -26,7 +26,7 @@ var drawline = function () {
 };
 var perfect = function () {
     ctx.font = "100px Consolas";
-    ctx.fillStyle = "#ff3344";
+    ctx.fillStyle = "firebrick";
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
     ctx.fillText("PERFECT", 500, 250);
